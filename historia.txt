@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Esta es a historia  de Arnol Plazas
 
 Arnol Plazas tiene 30 años y nació en Colombia, 
@@ -6,3 +7,13 @@ y viviendo con mi familia
 Hoy hablaremos de su vida y obra maestra.
 
 en camara parece alto pero no es tan alto.
+=======
+Esta es la historia de Arnol Plazas
+
+Arnol Plazas tiene 29 años y nació en Colombia
+
+Arnol10 tiene 30 años y nacio en internet
+
+Mañana nos enfocaremos en su vida laboral
+
+>>>>>>> c560e8dd3e6fc05f513bf0a632a71465bdec84c4
