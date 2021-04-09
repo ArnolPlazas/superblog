@@ -1,18 +1,15 @@
-<<<<<<< HEAD
 Esta es a historia  de Arnol Plazas
-
-Arnol Plazas tiene 30 años y nació en Colombia, 
-y viviendo con mi familia
 
 Hoy hablaremos de su vida y obra maestra.
 
+
 ArnolIA es una IA superpoderoso y lo vueve hacer
-=======
-Esta es la historia de Arnol Plazas
+
+ArnolIA es una IA superpoderoso
+
 
 Arnol Plazas tiene 29 años y nació en Colombia
 Arnol10 nacio en internet y contribuye en este proyecto open source
 
 Mañana nos enfocaremos en su vida laboral
 
->>>>>>> c560e8dd3e6fc05f513bf0a632a71465bdec84c4
