@@ -5,4 +5,8 @@ Un blog increible para el curso de Git de Platzi
 
 ## Gracias
 
+## Esto es un mensaje importante
+* Creado por un equipo increible.
+
+
 `$ prueba final`
